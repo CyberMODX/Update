@@ -1,15 +1,10 @@
 {
-  "versionCode": 1202110094,
-  "versionName": "",
-  "Msg": "New update is Aviabile!
-
-What's new:
-- Performance Improvements.
-- Bug Fixes.
-- New Features introduced.
-- Others minor changes.
-- Support 𝗖𝘆𝗯𝗲𝗿𝗠𝗢𝗗 
-
-Click Update Button",
-  "downloadLink": "https://t.me/cybermodx"
-  }
+"version": "12.2.11",
+"title": "Spotify Update Available!",
+"NewVersion": "",
+"downloadLink": "https://t.me/cybermodx",
+"changeLogMessage": "𝖯𝗅𝖾𝖺𝗌𝖾 𝗎𝗉𝖽𝖺𝗍𝖾 𝗍𝗁𝖾 𝗅𝖺𝗍𝖾𝗌𝗍 𝗏𝖾𝗋𝗌𝗂𝗈𝗇. 𝖤𝗇𝗃𝗈𝗒 𝗍𝗁𝖾 𝗇𝖾𝗐 𝖿𝖾𝖺𝗍𝗎𝗋𝖾𝗌.",
+"negativebtn": "𝗖𝗟𝗢𝗦𝗘",
+"positivebtn": "𝗨𝗣𝗗𝗔𝗧𝗘 𝗡𝗢𝗪",
+"changelogTitle": "𝗪𝗛𝗔𝗧'𝗦 𝗡𝗘𝗪"
+}
