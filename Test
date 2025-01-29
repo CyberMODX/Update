@@ -1,10 +1,9 @@
 {
-"version": "9.9.9.9",
-"title": "New Update Available!",
-"NewVersion": "",
-"downloadLink": "https://t.me/cybermodx",
-"changeLogMessage": "𝖯𝗅𝖾𝖺𝗌𝖾 𝗎𝗉𝖽𝖺𝗍𝖾 𝗍𝗁𝖾 𝗅𝖺𝗍𝖾𝗌𝗍 𝗏𝖾𝗋𝗌𝗂𝗈𝗇. 𝖤𝗇𝗃𝗈𝗒 𝗍𝗁𝖾 𝗇𝖾𝗐 𝖿𝖾𝖺𝗍𝗎𝗋𝖾𝗌.",
-"negativebtn": "",
-"positivebtn": "𝗨𝗣𝗗𝗔𝗧𝗘 𝗡𝗢𝗪",
-"changelogTitle": "𝗪𝗛𝗔𝗧'𝗦 𝗡𝗘𝗪"
+  "isUpdate": true,
+  "title": "New Version Update! 🚀",
+  "version": "O.3.R.1",
+  "updateUrl": "https://t.me/odri_modz",
+  "description": [
+    "Yeni Daşşağ Mövcuddur"
+  ]
 }
